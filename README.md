@@ -1,7 +1,5 @@
 # Power_BI_Relatório_Final
 
-# Relatório Financeiro de Vendas
-
 ## Descrição do Projeto
 
 Este relatório financeiro foi desenvolvido como parte de um treinamento utilizando Power BI e R, com o objetivo de realizar uma análise abrangente das vendas e lucros. O foco era desenvolver habilidades na extração de insights acionáveis sobre o desempenho financeiro, facilitando a aplicação prática em cenários de negócios reais e a tomada de decisões estratégicas.
