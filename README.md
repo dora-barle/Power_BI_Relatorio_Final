@@ -39,7 +39,7 @@ O relatório é dividido nas seguintes seções:
 
 ## Conclusão
 
-Este relatório financeiro servio como um exemplo prático de análise de desempenho de vendas e lucros, desenvolvido para treinar habilidades analíticas utilizando dados simulados. Através de análises exploratórias e preditivas, este documento é uma ferramenta valiosa para aprender a identificar oportunidades de crescimento e otimização. O objetivo é preparar-se para aplicar esses conceitos e métodos em dados reais, contribuindo para decisões informadas e estratégicas no ambiente de negócios. 
+Este relatório financeiro serviu como um exemplo prático de análise de desempenho de vendas e lucros, desenvolvido para treinar habilidades analíticas utilizando dados simulados. Através de análises exploratórias e preditivas, este documento é uma ferramenta valiosa para aprender a identificar oportunidades de crescimento e otimização. O objetivo é preparar-se para aplicar esses conceitos e métodos em dados reais, contribuindo para decisões informadas e estratégicas no ambiente de negócios. 
 
 
 
